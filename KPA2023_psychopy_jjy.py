@@ -7,7 +7,7 @@
 # 측정 데이터파일 경로: [result] 폴더
 #     데이터파일 변인명: 1. ID  2. 블록번호  3. 시행번호  4. 운영체제  5. PC종류  6. 화면 재생 빈도(hz)  
 #                   7. 코드: while[1]/개발자[2] 8. 지연요소: 없음[0]/키입력직후[1]/반복문[2]
-#                   9. 자극 제시시간(의도)  10. 자극 지속시간(프로그램)  11. 검은화면 제시시간(프로그램)
+#                   9. 자극 제시시간(의도)  10. 자극 지속시간(프로그램)  11. 검은화면 지속시간(프로그램)
 
 # Configuration settings -----------------------------------------
 from psychopy import visual, core, event, data, gui, logging, monitors, tools, parallel #import some libraries from PsychoPy
